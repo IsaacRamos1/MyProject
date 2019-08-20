@@ -10,7 +10,7 @@ void frontEnd () {
 	printf("=================================================================\n");
 	printf("========================___________==============================\n");
 	printf("=======================|           |=============================\n");
-	printf("=======================|  *PUSHEEN |=============================\n");
+	printf("=======================|  *PUSHEEN |=========(o-o)===============\n");
 	printf("=======================|    QUIZ*  |=============================\n");
 	printf("=======================|___________|=============================\n");
 	printf("================== WHITCH PUSHEEN ARE YOU? ======================\n");
@@ -23,7 +23,7 @@ void frontEnd () {
 void Cor(){
 	char comando[9] = "color ";
 	char cores[2];
-	//comando de regionalizaÁ„o
+	//comando de regionaliza√ß√£o
 	setlocale(LC_ALL, "Portuguese");
 	//titulo do programa
 	SetConsoleTitle("Cores com system");
@@ -32,9 +32,9 @@ void Cor(){
 	printf("\t0 - Preto\t8 - Cinza\n");
 	printf("\t1 - Azul\t9 - Azul Claro\n");
 	printf("\t2 - Verde\tA - Verde Claro\n");
-	printf("\t3 - Verde ¡gua\t8 - Verde ¡gua Claro\n");
+	printf("\t3 - Verde √Ågua\t8 - Verde √Ågua Claro\n");
 	printf("\t4 - Vermelho\tC - Vermelho Claro\n");
-	printf("\t5 - Roxo\tD - Lil·s\n");
+	printf("\t5 - Roxo\tD - Lil√°s\n");
 	printf("\t6 - Amarelo\tE - Amarelo Claro\n");
 	printf("\t7 - Branco\tF - Branco Brilhante\n");
 	
